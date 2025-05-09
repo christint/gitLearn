@@ -1,2 +1,3 @@
 amazing 
 added line 2
+added a line as per bug
