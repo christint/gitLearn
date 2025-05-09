@@ -1,2 +1,2 @@
 amazing 
-second line buyt merge conflict will happen
+added line 2
